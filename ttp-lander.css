@@ -4,7 +4,7 @@
   overflow: hidden; }
   #page.ttp a.open-house {
     width: 100%;
-    background-color: #e7542c;
+    background-color: #562282;
     color: white;
     text-align: center;
     font-size: 22px;
@@ -140,7 +140,7 @@
             #page.ttp .top-section .wrapper-text .form-right .learn-more .container input[type="submit"].form-button {
               -webkit-appearance: none;
               font-family: "Oswald", sans-serif;
-              background-color: #e7542c;
+              background-color: #562282;
               color: white;
               padding: 4px 10px;
               width: 85%;
@@ -244,7 +244,7 @@
           vertical-align: middle;
           padding-left: 10px; }
     #page.ttp .middle-section .class-container {
-      background-color: #e7542c;
+      background-color: #562282;
       height: 650px;
       color: #fff;
       width: 50%; }
@@ -263,7 +263,7 @@
       #page.ttp .middle-section .class-container .enroll-now {
         font-family: "Oswald", sans-serif;
         background-color: #fff;
-        color: #e7542c;
+        color: #562282;
         padding: 4px 10px;
         width: 85%;
         border-radius: 0;
@@ -284,7 +284,7 @@
       background-size: cover;
       width: 50%; }
     #page.ttp .middle-section .about-us-container {
-      background-color: #e7542c;
+      background-color: #562282;
       height: 900px;
       width: 50%;
       color: #fff; }
