@@ -18,7 +18,7 @@
       position: absolute;
       height: 702px;
       width: 100%;
-      background: url("../images/DSC-8211.jpg") no-repeat;
+      background: url("../images/DSC_8211.jpg") no-repeat;
       background-size: cover; }
     #page.ttp .top-section .wrapper-text {
       z-index: 4;
@@ -279,7 +279,7 @@
     #page.ttp .middle-section .mobile {
       display: none; }
     #page.ttp .middle-section .about-us {
-      background: url("../images/student_filtered.jpg");
+      background: url("../images/DSC_8417.jpeg");
       height: 900px;
       background-size: cover;
       width: 50%; }
