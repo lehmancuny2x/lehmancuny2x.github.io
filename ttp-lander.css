@@ -279,9 +279,9 @@
     #page.ttp .middle-section .mobile {
       display: none; }
     #page.ttp .middle-section .about-us {
-      background: url("./images/DSC_8417.jpeg");
+      background: url("./images/geopipecrop.jpeg");
       height: 900px;
-      background-size: cover;
+      background-size: 100% 100%;
       width: 50%; }
     #page.ttp .middle-section .about-us-container {
       background-color: #562282;
