@@ -185,7 +185,7 @@
       #page.ttp .middle-section .sponsor-container .first {
         width: 75px; }
     #page.ttp .middle-section .contest-container {
-      height: 650px;
+      height: 850px;
       background-color: #EBEBEB;
       width: 50%; }
       #page.ttp .middle-section .contest-container .contest-body {
@@ -245,7 +245,7 @@
           padding-left: 10px; }
     #page.ttp .middle-section .class-container {
       background-color: #562282;
-      height: 650px;
+      height: 850px;
       color: #fff;
       width: 50%; }
       #page.ttp .middle-section .class-container .class-title {
@@ -256,6 +256,8 @@
         font-family: "Source Sans Pro";
         font-size: 20px;
         padding-top: 25px; 
+        padding-bottom: 25px; 
+
         font-weight: 300;
         max-width: 350px;
         line-height: 1.6;
