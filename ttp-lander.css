@@ -4,7 +4,7 @@
   overflow: hidden; }
   #page.ttp a.open-house {
     width: 100%;
-    background-color: #562282;
+    background-color: #0d207e;
     color: white;
     text-align: center;
     font-size: 22px;
@@ -18,8 +18,9 @@
       position: absolute;
       height: 702px;
       width: 100%;
-      background: url("./images/DSC_8215.jpeg") no-repeat;
-      background-size: cover; }
+      background: url("./images/woman_on_computer.jpg") no-repeat;
+      background-size: cover; 
+      filter: brightness(50%);}
     #page.ttp .top-section .wrapper-text {
       z-index: 4;
       position: relative;
@@ -265,7 +266,7 @@
       #page.ttp .middle-section .class-container .enroll-now {
         font-family: "Oswald", sans-serif;
         background-color: #fff;
-        color: #562282;
+        color: #;
         padding: 4px 10px;
         width: 85%;
         border-radius: 0;
@@ -281,7 +282,7 @@
     #page.ttp .middle-section .mobile {
       display: none; }
     #page.ttp .middle-section .about-us {
-      background: url("./images/geopipecrop.jpeg");
+      background: url("./images/ttp_Screen.jpg");
       height: 900px;
       background-size: 100% 100%;
       width: 50%; }
