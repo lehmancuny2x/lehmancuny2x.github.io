@@ -141,7 +141,7 @@
             #page.ttp .top-section .wrapper-text .form-right .learn-more .container input[type="submit"].form-button {
               -webkit-appearance: none;
               font-family: "Oswald", sans-serif;
-              background-color: #562282;
+              background-color: #0d207e;
               color: white;
               padding: 4px 10px;
               width: 85%;
@@ -245,7 +245,7 @@
           vertical-align: middle;
           padding-left: 10px; }
     #page.ttp .middle-section .class-container {
-      background-color: #562282;
+      background-color: #0d207e;
       height: 850px;
       color: #fff;
       width: 50%; }
@@ -287,7 +287,7 @@
       background-size: 100% 100%;
       width: 50%; }
     #page.ttp .middle-section .about-us-container {
-      background-color: #562282;
+      background-color: #0d207e;
       height: 900px;
       width: 50%;
       color: #fff; }
