@@ -70,6 +70,10 @@ body {
 .clear {
   clear: both; }
 
+.bannercap {
+font-size: 15px !important;
+}
+
 .center-text {
   display: none;
   text-align: center; }
