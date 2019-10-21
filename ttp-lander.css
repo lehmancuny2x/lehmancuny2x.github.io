@@ -13,22 +13,36 @@
     display: inline-block; }
   #page.ttp .top-section {
     height: 702px; }
+
     #page.ttp .top-section .bg-image-lander {
       z-index: 1;
       position: absolute;
       height: 702px;
       width: 100%;
-      background: url("./images/0-1-1.jpeg.jpg") no-repeat;
+      /*background: url("./images/ttp_17pic.jpg") no-repeat;  SHANY*/
+      background: url("./images/0-1-1.jpeg") no-repeat;
       background-size: cover; 
-      filter: brightness(50%);}
+    /*  filter: brightness(50%); SHANY */
+      filter: brightness(60%);
+    }
     #page.ttp .top-section .wrapper-text {
       z-index: 4;
       position: relative;
-      padding-top: 20px;
+    /*  padding-top: 20px; SHANY*/
+      padding-top:1px;
       left: 0;
       right: 0;
       max-width: 1035px;
       margin: 0 auto; }
+
+
+      /*  added this '.CLEAR' to lower lehman logos SHANY*/
+      .clear{
+        padding-top: 70px;
+      }
+
+
+
       #page.ttp .top-section .wrapper-text .centered .logo-alt {
         width: 153px;
         margin-top: 50px;
@@ -38,7 +52,8 @@
         font-size: 70px;
         float: left;
         position: relative;
-        top: 159px;
+       /* top: 159px;*/
+        top:3px;
         clear: both;
         color: #fff;
         line-height: 70px;
@@ -53,7 +68,10 @@
           line-height: 42px;
           font-weight: 300; }
           #page.ttp .top-section .wrapper-text .top-title .sub-title:first-of-type {
-            margin-top: 25px; }
+
+           /* margin-top: 25px; SHANY*/
+            margin-top: 10px; }
+
           #page.ttp .top-section .wrapper-text .top-title .sub-title p {
             font-size: 32px;
             font-weight: 300;
@@ -186,7 +204,8 @@
       #page.ttp .middle-section .sponsor-container .first {
         width: 75px; }
     #page.ttp .middle-section .contest-container {
-      height: 850px;
+      /*height: 850px;*/
+      height: 1000px;
       background-color: #EBEBEB;
       width: 50%; }
       #page.ttp .middle-section .contest-container .contest-body {
@@ -245,8 +264,11 @@
           vertical-align: middle;
           padding-left: 10px; }
     #page.ttp .middle-section .class-container {
-      background-color: #0d207e;
-      height: 850px;
+      /*background-color: #0d207e;*/
+      background-color:#000 ;
+      /*background-color: #59407d;*/
+      /*height: 850px; SHANY*/
+      height: 1000px;
       color: #fff;
       width: 50%; }
       #page.ttp .middle-section .class-container .class-title {
@@ -267,9 +289,14 @@
         font-family: "Oswald", sans-serif;
         background-color: #fff;
         color: #;
-        padding: 4px 10px;
-        width: 85%;
-        border-radius: 0;
+        padding: 5px 10px;
+        width: 75%;
+        /*border-radius: 0; SHANY*/
+        border-radius: 8px;
+      
+        box-shadow: 5px 7px 7px gray;
+        
+
         font-size: 23px;
         display: inline-block;
         text-align: center;
@@ -279,19 +306,19 @@
         cursor: pointer;
         border: 0;
         margin-bottom: 10px;
-        margin-left: 20px; 
+        margin-left: 80px; 
       }
 
     #page.ttp .middle-section .mobile {
       display: none; }
     #page.ttp .middle-section .about-us {
       background: url("./images/ttp_maya.jpg");
-      height: 900px;
+      height: 1000px;
       background-size: 100% 100%;
       width: 50%; }
     #page.ttp .middle-section .about-us-container {
       background-color: #0d207e;
-      height: 900px;
+      height: 1000px;
       width: 50%;
       color: #fff; }
       #page.ttp .middle-section .about-us-container .about-title {
